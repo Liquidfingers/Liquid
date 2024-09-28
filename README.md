@@ -1,12 +1,24 @@
+# Global Electronics Sales and Customer Analysis
+## Table of Content
+* <a href="">General Overview</a>
+## General Overview
+### Journey to the Dashboard
+This Project was named as __'Journey to the Dashboard'__ When i saw how large the data was i decided to make the whole stuff to be as simplle as possible see to understand
+i adopted visualization as my means of relay the information and my findings from this project. the market is an ideal market affected by the forces of demand and supply<br/>
 Here is a code well arranged for Exploratory Data Analysis, Grouped Data Analysis and Machine learning adopting the Kmeans Algorithm.
 The Data came in as a four table analysed data (Customers' Table, Sales Table, Store Table, and The Product list Table).
-![Untitled - Google Chrome 9_27_2024 8_53_09 PM](https://github.com/user-attachments/assets/a10c30e8-93c8-421d-92a0-1389a72743aa)       Store Table
-![Untitled - Google Chrome 9_27_2024 9_04_15 PM](https://github.com/user-attachments/assets/f2444a07-3d16-4911-82b9-074a30642460)       Sales 
-![Untitled - Google Chrome 9_27_2024 9_01_07 PM](https://github.com/user-attachments/assets/109d1da7-5ec2-419d-9474-fa1620405109)  Product List Table
-![Untitled - Google Chrome 9_27_2024 8_46_09 PM](https://github.com/user-attachments/assets/84779fd0-d74d-4a0f-9c43-c0e20b970d69)  Customers' Table
+![Global Electronic Portfolio Project - Google Chrome 9_28_2024 6_44_48 PM](https://github.com/user-attachments/assets/d6b4440d-2dec-42b6-8552-b570d650ced8)<br/>
+**Sales Dataset**<br/>
+![Untitled - Google Chrome 9_27_2024 9_01_07 PM](https://github.com/user-attachments/assets/9bfe2a29-3585-458d-b653-74fcba632e76)<br/>
+**Product Dataset**<br/>
+![Untitled - Google Chrome 9_27_2024 8_53_09 PM](https://github.com/user-attachments/assets/8bb1a9c4-2699-4343-a997-5141ccc7c2cb)<br/>
+**Stores Records**<br/>
+![Untitled - Google Chrome 9_27_2024 8_46_09 PM](https://github.com/user-attachments/assets/9c1d3e93-08ae-41c2-8884-b1623fe53068)<br/>
+__Customer Records__<br/>
+
 
 I had to wrangle with the use of SQL(SQL Workbench).it was a task but by leveraging the use of Primary Key and Foreign Keys the four tables made more sense as one table.
-the Table looked like this. it contained all rows from all four tables.![Global Electronic Portfolio Project - Google Chrome 9_28_2024 6_44_48 PM](https://github.com/user-attachments/assets/f49878e5-67ae-4355-86dd-ae8f4a717958)
+the Table looked like this. it contained all rows from all four tables.![Global Electronic Portfolio Project - Google Chrome 9_28_2024 6_44_48 PM](https://github.com/user-attachments/assets/f49878e5-67ae-4355-86dd-ae8f4a717958). You can access this code from the repo List as __Data Wrangled__
 
 while going through the wrangled data i realized there were a lot of duplicates like this
 ![Global Electronic Portfolio Project - Google Chrome 9_27_2024 11_50_35 PM](https://github.com/user-attachments/assets/34ab3a86-7a89-46ac-9258-4b9c70c476e9)
