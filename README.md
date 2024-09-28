@@ -1,10 +1,21 @@
 # Global Electronics Sales and Customer Analysis
 ## Table of Content
-* <a href="">General Overview</a>
+* ### General Overview
+* ### Technologies Adopted
+* ### Insight into Data Stucture
+* ### Data Wrangling and Cleaning with Python and SQL
+* ### Grouped Data Analysis
+* ### Hypothetical Analysis(Univariate and Bivariate Analysis)
+* ### Machine Learning Algprithm(KMeans)
+* ### Data Visualization using Power BI
+* #### Sales Impact
+  
+  
 ## General Overview
 ### Journey to the Dashboard
 This Project was named as __'Journey to the Dashboard'__ When i saw how large the data was i decided to make the whole stuff to be as simplle as possible see to understand
 i adopted visualization as my means of relay the information and my findings from this project. the market is an ideal market affected by the forces of demand and supply<br/>
+## Insight into Data Structure
 Here is a code well arranged for Exploratory Data Analysis, Grouped Data Analysis and Machine learning adopting the Kmeans Algorithm.
 The Data came in as a four table analysed data (Customers' Table, Sales Table, Store Table, and The Product list Table).
 ![Global Electronic Portfolio Project - Google Chrome 9_28_2024 6_44_48 PM](https://github.com/user-attachments/assets/d6b4440d-2dec-42b6-8552-b570d650ced8)<br/>
@@ -16,20 +27,30 @@ The Data came in as a four table analysed data (Customers' Table, Sales Table, S
 ![Untitled - Google Chrome 9_27_2024 8_46_09 PM](https://github.com/user-attachments/assets/9c1d3e93-08ae-41c2-8884-b1623fe53068)<br/>
 __Customer Records__<br/>
 
-
+##  Data Wrangling and Cleaning with Python and SQL
 I had to wrangle with the use of SQL(SQL Workbench).it was a task but by leveraging the use of Primary Key and Foreign Keys the four tables made more sense as one table.
-the Table looked like this. it contained all rows from all four tables.![Global Electronic Portfolio Project - Google Chrome 9_28_2024 6_44_48 PM](https://github.com/user-attachments/assets/f49878e5-67ae-4355-86dd-ae8f4a717958). You can access this code from the repo List as __Data Wrangled__
+the Table looked like this. it contained all rows from all four tables.![Global Electronic Portfolio Project - Google Chrome 9_28_2024 6_44_48 PM](https://github.com/user-attachments/assets/1ef8e1d9-e692-4b50-9e5f-e988eda130d3)
+ You can access this code from the repo List as __Data Wrangled__<br/>
 
 while going through the wrangled data i realized there were a lot of duplicates like this
-![Global Electronic Portfolio Project - Google Chrome 9_27_2024 11_50_35 PM](https://github.com/user-attachments/assets/34ab3a86-7a89-46ac-9258-4b9c70c476e9)
+![Global Electronic Portfolio Project - Google Chrome 9_27_2024 11_50_35 PM](https://github.com/user-attachments/assets/e29f2770-d8ad-4d51-923f-34d44a03391d)
+
 It made no sense but I realized it was due to difference in products bought and date it was bought and other related factors.
 Grouped analysis was carried out with this Table because the grouped analysis wa mostly about summing so I left it like that.
-But when it came to hypothetical analysis i need to remove the duplicates. At this point i had to adopt the 'groupby' keyword to execute this and it workd. WHen you check the code,
+But when it came to hypothetical analysis i need to remove the duplicates. At this point i had to adopt the ```groupby``` keyword to execute this and it workd. WHen you check the code,
 you will see failed codes when i was trying to use pivot table to eliminate the dupilicates. the code finally formed sth reasonable but i could not work with the result it gave me because of it indxed the name column.
 Basically what i wanted was for the name that was duplicated to be one and all thhe goods should be listed and the prices summed so it will look like a list or record. it worked but i could not tamper much with the
 result so i discarded it and used the 'groupby' function to execute what i wanted to execute these are the two results
-![Global Electronic Portfolio Project - Google Chrome 9_28_2024 6_58_16 PM](https://github.com/user-attachments/assets/d41aa295-71dc-4843-8b2f-559b4500de86)
-![Global Electronic Portfolio Project - Google Chrome 9_27_2024 11_46_43 PM](https://github.com/user-attachments/assets/7f31f969-6443-4e0c-bf36-f5eec787897e)
-The first on is the one that could not be worked on while the second one was a better choice.
-The limitation of the first one was that it could only carry sales and maybe gender.
+![Global Electronic Portfolio Project - Google Chrome 9_28_2024 6_58_16 PM](https://github.com/user-attachments/assets/2fad127d-a63b-4f89-a246-3032290d34c0)
+![Global Electronic Portfolio Project - Google Chrome 9_27_2024 11_46_43 PM](https://github.com/user-attachments/assets/4f1689ab-e113-41e7-b767-144a3359b742)
 
+The first on is the one that could not be worked on while the second one was a better choice.
+The limitation of the first one was that it could only carry sales and maybe gender.<br/>
+## Grouped Data Analysis
+In this Grouped Data Analysis we had to break down complexity of the data by grouping the data by thier columns using the pivot table method. ```groupby``` was still adopted but a few times. 
+### Brand Group Analysis
+In this section of this project we grouped brand by gender to know Male and Female prefernces on the basis of __BRAND__. the count was almost 1:1 ratio. Next we group __Brand__ by __Category__, I wanted to understand the brand dominace from the record to get clarity we went further to group __Brand__ with __Sales and Profit__. the __CONTOSO__ brand was the outstanding brand both in Brand Dominace and Sales Dominance.<br/>
+### Country and Continent Grouped Analysis
+Furthermore, another grouped analysis was carried out to check spending score of male and female in the market. The result was also on aratio of Approx. 1:1. We went went further to check Country Participation. This market is a global market but it has a range of participation. it participated in North America, Australia and Europe. The grouping gave results that The __US__ had the largest participation int the market and Netherland and France had a smaller share. the impact the __US__ made cause the profit generated in North America to sky-rocket. THis Analysis Bore three Visuals to give a better understandng
+## Hypothetical Analysis(Univariate and Bivariate Analysis)
+My Understanding of hypothesis is a reasonable guess and this reasonable guess has been continously practiced from the onset of this project, from the viewing of the Data,to the Cleaning to the grouping and even here where we will relate columns. It continues even after this section.
