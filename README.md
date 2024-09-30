@@ -15,9 +15,9 @@
   >>>- [Bivariate Analysis](#bivariate-analysis)
 >>- [Machine Learning Algorithm](#machine-learning-algorithm)
   >>>- [KMeans](#kmeans)
->>- [Dashboard and Reports](dashboard-and-reports)
+>>- [Dashboard and Reports](#dashboard-and-reports)
   >>>- [Sales Impact](#sales-impact)
->>- [Conclusion](conclusion)
+>>- [Conclusion](#conclusion)
 ## General Overview
 ### Journey to the Dashboard
 This Project was named as __'Journey to the Dashboard'__ When i saw how large the data was i decided to make the whole stuff to be as simplle as possible see to understand
