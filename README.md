@@ -1,15 +1,7 @@
 # Global Electronics Sales and Customer Analysis
-## Table of Content
-* ### General Overview
-* ### Technologies Adopted
-* ### Insight into Data Stucture
-* ### Data Wrangling and Cleaning with Python and SQL
-* ### Grouped Data Analysis
-* ### Hypothetical Analysis(Univariate and Bivariate Analysis)
-* ### Machine Learning Algorithm(KMeans)
-* ### Data Visualization using Power BI
-* #### Sales Impact
-  
+# Table of Content
+- [General Overview](#general-overview)
+  - [Journey to The Dashboard](#univariate-analysis)
   
 ## General Overview
 ### Journey to the Dashboard
