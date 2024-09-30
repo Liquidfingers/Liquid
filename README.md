@@ -1,4 +1,6 @@
-# Global Electronics Sales and Customer Analysis
+<h1 align="center">Global Electronics Sales and Customer Analysis</h1><br/>
+
+# [__THE DASHBOARD__](https://app.powerbi.com/groups/me/dashboards/7b38209c-a448-45fb-92d5-fffe93321f1d?experience=power-bi) AND [__REPORTS__](https://app.powerbi.com/groups/me/reports/61843c23-8805-4809-ae9b-dfbcddc212c2/0fb0979e00043bec61ed?experience=power-bi)
 ># Table of Content
 >>- [General Overview](#general-overview)
   >>>- [Journey to The Dashboard](#journey-to-the-dashboard)
@@ -13,6 +15,9 @@
   >>>- [Bivariate Analysis](#bivariate-analysis)
 >>- [Machine Learning Algorithm](#machine-learning-algorithm)
   >>>- [KMeans](#kmeans)
+>>- [DashBoard and Reports](dashboard-and-reports)
+  >>>- [Sales Impact](#sales-impact)
+>>- [Conclusion](conclusion)
 ## General Overview
 ### Journey to the Dashboard
 This Project was named as __'Journey to the Dashboard'__ When i saw how large the data was i decided to make the whole stuff to be as simplle as possible see to understand
@@ -79,7 +84,21 @@ Furthermore, another grouped analysis was carried out to check spending score of
  From this it is clear that the spread has 3 cluster. The clusters looked like thia.<br/>
  ![Global Electronic Portfolio Project - Google Chrome 9_28_2024 11_41_12 PM](https://github.com/user-attachments/assets/a0577ddd-1326-4b81-afee-8fe6644275a1)<br/>
 This process helped us to show the layers of the concentration of customers in each price zone. This process helped me map out what is called the Price zones.
+## Dashboard and Reports
+When we say data analysis we dig into Data to get facts but the aim of getting this fact is to relay the information to the people who need them. Here we adopted Power BI Visualization to create our [__Dashboard__](https://app.powerbi.com/groups/me/dashboards/7b38209c-a448-45fb-92d5-fffe93321f1d?experience=power-bi). We also have our Reports on [Sales Impact](https://app.powerbi.com/groups/me/reports/61843c23-8805-4809-ae9b-dfbcddc212c2/0fb0979e00043bec61ed?experience=power-bi).
+### Sales impact
+The aim of this report is to explain the whole dataset in simple terms. It indicates the impact points on the market in terms of Country Participation and Brand Competition
+[![Power BI Desktop 9_27_2024 12_50_39 AM](https://github.com/user-attachments/assets/bf818e1b-8897-4bfd-ab28-0fd3c0824189)](https://app.powerbi.com/groups/me/reports/61843c23-8805-4809-ae9b-dfbcddc212c2/0fb0979e00043bec61ed?experience=power-bi)
+## Conclusion
+It was a very Interesting journey on thi s said analysis. My Deductions are as follows:<br/>
 
+### - There should be more Emphasis placed on Netherlands and france ie. More Branches should be pitched there.
+
+### - Also Next Purchases should be Focused on __'CONTOSO'__ brand it is in High Demand price can also be raised for goods with these brand so as to conform with the __Market Forces__.
+
+### - The Us Market is rapidly growing there will be need for more Empoyees in that area.
+
+### - The other Country are on stable market condition.
  
  
  
