@@ -15,7 +15,7 @@
   >>>- [Bivariate Analysis](#bivariate-analysis)
 >>- [Machine Learning Algorithm](#machine-learning-algorithm)
   >>>- [KMeans](#kmeans)
->>- [DashBoard and Reports](dashboard-and-reports)
+>>- [Dashboard and Reports](dashboard-and-reports)
   >>>- [Sales Impact](#sales-impact)
 >>- [Conclusion](conclusion)
 ## General Overview
