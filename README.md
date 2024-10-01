@@ -34,7 +34,8 @@ i adopted visualization as a means to relay the information and my findings from
 ## Insight into Data Structure
 Here is a Project well arranged for Exploratory Data Analysis, Grouped Data Analysis and Machine learning adopting the Kmeans Algorithm.
 The Data came in as a four table analysed data (Customers' Table, Sales Table, Store Table, and The Product list Table).
-![Global Electronic Portfolio Project - Google Chrome 9_28_2024 6_44_48 PM](https://github.com/user-attachments/assets/d6b4440d-2dec-42b6-8552-b570d650ced8)<br/>
+![Untitled - Google Chrome 9_27_2024 9_04_15 PM](https://github.com/user-attachments/assets/3b734129-641a-45ba-a66a-9167abad08ca)
+<br/>
 **Sales Dataset**<br/>
 ![Untitled - Google Chrome 9_27_2024 9_01_07 PM](https://github.com/user-attachments/assets/9bfe2a29-3585-458d-b653-74fcba632e76)<br/>
 **Product Dataset**<br/>
