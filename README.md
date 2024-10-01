@@ -78,11 +78,11 @@ Furthermore, another grouped analysis was carried out to check spending score of
  During the Bivariate analysis we just had to do the relationship between Age and Sales. We did a scattered plot. people at all age groups bought at all price points. But, the unique stuff about this analysis was that the plots were getting loose as the price went high and was getting more Jam-Packed as the price got lower. This event made me to adopt the Kmeans algorithm to carefully demarcate these sections. The plot gave an image of molecules diffusing through a rectangular jar.
  ## Machine Learning Algorithm
  ### KMeans
- During Diffusion there are layer that form so i had to demarcate this layers using KMeans clustering. KMeans Clustering is a Machine learning algorithm that learns the Data fed into it and clusters the data even giving us mean postions for these clusters.<br/>
+ During Diffusion there are layer that form so I had to demarcate this layers using KMeans clustering. KMeans Clustering is a Machine learning algorithm that learns the Data fed into it and clusters the data even giving us mean postions for these clusters.<br/>
  Bivariate Clustering was Carried out. One very interesting stuff about this analysis is that as the analysis goes further we begin to specialize on very few columns on this Data.
  quickly we used a ```for``` loop to get the amount of clusters.<br/>
  ![Global Electronic Portfolio Project - Google Chrome 9_28_2024 11_36_41 PM](https://github.com/user-attachments/assets/4c3500cd-38f6-4c4e-af46-d97258db9299)<br/>
- From this it is clear that the spread has 3 cluster. The clusters looked like thia.<br/>
+ From this it is clear that the spread has 3 cluster. The clusters looked like this.<br/>
  ![Global Electronic Portfolio Project - Google Chrome 9_28_2024 11_41_12 PM](https://github.com/user-attachments/assets/a0577ddd-1326-4b81-afee-8fe6644275a1)<br/>
 This process helped us to show the layers of the concentration of customers in each price zone. This process helped me map out what is called the Price zones.
 ## Dashboard and Reports
@@ -93,9 +93,9 @@ The aim of this report is to explain the whole dataset in simple terms. It indic
 ## Conclusion
 It was a very Interesting journey on thi s said analysis. My Deductions are as follows:<br/>
 
-### - There should be more Emphasis placed on Netherlands and france ie. More Branches should be pitched there.
+### - There should be more Emphasis placed on Netherlands and France ie. More Branches should be pitched there.
 
-### - Also Next Purchases should be Focused on __'CONTOSO'__ brand it is in High Demand price can also be raised for goods with these brand so as to conform with the __Market Forces__.
+### - Also Next Purchases should be Focused on __'CONTOSO'__ brand it is in High Demand also, price can also be raised for goods with these brand so as to conform with the __Market Forces__.
 
 ### - The Us Market is rapidly growing there will be need for more Empoyees in that area.
 
